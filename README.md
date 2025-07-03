@@ -3,7 +3,7 @@
 # thingmajigs
 A mod that adds decorations to your Minecraft Worlds.
 
-## If you came here using NeoForge 1.21+ do not report bugs or crashes for that version here. Please go to [Thingamajigs 2 GitHub Issues Link](https://github.com/CreativeMasterBonin/thingamajigs2/issues) instead!
+## If you came here using NeoForge 1.21+ do not report bugs or crashes for that version here. Please go to [Thingamajigs 2 GitHub Issues Link](https://github.com/CreativeMasterBonin/thingamajigs2/issues) instead! If you came here for other games' version of Thingamajigs, it's not here, so don't report bugs and issues that are not for MC versions of Thingamajigs!
 
 Supported Versions For Issue and Crash Support: MC 1.20.1.
 Supported Mod Loaders For Issue and Crash Support: Forge (1.20.1 Version).
