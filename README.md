@@ -14,7 +14,7 @@ Unsupported Mod Loaders For Issue and Crash Support: 1.20.2-1.21+.
 Future Planned Versions: 1.7.8
 
 Thingamajigs can be downloaded for other games too!
-Current games supported: Cosmic Reach
+Current games supported: Cosmic Reach. DO NOT REPORT ANYTHING HERE FOR OTHER GAMES.
 
 Test trial old and pre-release versions of Thingamajigs here (newest is 1.7.7): https://github.com/CreativeMasterBonin/thingmajigs/tree/main/downloads
 
