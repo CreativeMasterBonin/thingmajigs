@@ -3,7 +3,7 @@
 # thingmajigs
 A mod that adds decorations to your Minecraft Worlds.
 
-### HEY! We moved to a REAL repository of fun! Go here please for future reports and full open source code: https://github.com/CreativeMasterBonin/thingamajigs-forge
+### HEY! We moved ALL THE CODE to a REAL repository of fun! Go here please for the fully open source code (All rules here apply to that repository): https://github.com/CreativeMasterBonin/thingamajigs-forge
 
 ## If you came here using NeoForge 1.21+ do not report bugs or crashes for that version here. Please go to [Thingamajigs 2 GitHub Issues Link](https://github.com/CreativeMasterBonin/thingamajigs2/issues) instead! If you came here for other games' version of Thingamajigs, it's not here, so don't report bugs and issues that are not for MC versions of Thingamajigs!
 
