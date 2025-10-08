@@ -7,7 +7,8 @@
     "1.7.6":"Backports and many new features Coming soon!",
     "1.7.7_pre1":"A prerelease containing many new features and changes!",
     "1.7.7":"Added many new decorations and music component, along with instruments and changes to some old features;overhauled some textures and changed some models",
-    "1.8.2":"Fixed vanilla and other paintings being unplacable, moving all Thingamajigs paintings to creative only for now"
+    "1.8.2":"Fixed vanilla and other paintings being unplacable, moving all Thingamajigs paintings to creative only for now",
+    "1.8.3":"Backlog of decorations added, and changed some blockentity item forms to display their in-world models"
   },
   "promos":{
     "1.17.1-latest":"1.2.9",
