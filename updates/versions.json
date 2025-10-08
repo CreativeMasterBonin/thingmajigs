@@ -6,7 +6,8 @@
     "1.7.5":"Added Notable game consoles,Dental Cup,Wall TV,Barber Shop Features,Cash Register hitbox and model updated;Behind the scenes changes that help the mod work better in the long run",
     "1.7.6":"Backports and many new features Coming soon!",
     "1.7.7_pre1":"A prerelease containing many new features and changes!",
-    "1.7.7":"Added many new decorations and music component, along with instruments and changes to some old features;overhauled some textures and changed some models"
+    "1.7.7":"Added many new decorations and music component, along with instruments and changes to some old features;overhauled some textures and changed some models",
+    "1.8.2":"Fixed vanilla and other paintings being unplacable, moving all Thingamajigs paintings to creative only for now"
   },
   "promos":{
     "1.17.1-latest":"1.2.9",
@@ -18,9 +19,12 @@
     "1.19.3-latest":"1.5.3",
     "1.19.4-latest":"1.6.1",
     "1.20-latest":"1.6.2",
-    "1.20.1-latest":"1.7.7",
-    "1.20.1-recommended":"1.7.6",
+    "1.20.1-latest":"1.8.2",
+    "1.20.1-recommended":"1.8.2",
     "1.20.4-latest": "1.7.0",
-    "1.21.0-latest":"1.7.6"
+    "1.21.0-latest":"1.7.6",
+    "1.21.1-latest":"1.7.7",
+    "1.21.3-latest":"1.7.9",
+    "1.21.4-latest":"1.8.1"
   }
 }
