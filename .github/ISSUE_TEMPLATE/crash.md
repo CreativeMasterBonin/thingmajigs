@@ -7,6 +7,8 @@ assignees: ''
 
 ---
 
+Do not demand a fix. Developers have a hard enough time. Be polite when reporting or the crash may not be accepted as valid.
+
 **Describe How, What and When It Happened**
 Clear and concise description of crash. Specifically tell us what block, item, entity, or other thing has the issue. Tell us if it is client-side/server-side or both.
 
