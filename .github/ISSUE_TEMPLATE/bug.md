@@ -7,6 +7,8 @@ assignees: ''
 
 ---
 
+Do not demand a fix. Developers have a hard enough time. Be polite when reporting a bug or it may not be accepted as valid.
+
 **Describe How, What and When It Happened**
 Clear and concise description of bug. Specifically tell us what block, item, entity, or other thing has the issue. Tell us if it is client-side/server-side or both.
 
