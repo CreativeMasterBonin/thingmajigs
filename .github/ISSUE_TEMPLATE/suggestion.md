@@ -8,6 +8,7 @@ assignees: ''
 ---
 
 Do not demand a feature or change. Developers have a hard enough time. Be polite or your suggestion will be marked as invalid and ignored.
+This template is not for Thingamajigs 2, and is only made for 1.20.1 versions.
 
 **Describe The Suggestion**
 Clear and concise description of suggestion. Things like "a new block" or "a new item" aren't specific enough.
