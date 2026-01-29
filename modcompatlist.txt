@@ -14,3 +14,10 @@ Tag Support:
 Create
 Alex's Caves
 Tough As Nails
+
+
+
+All mods that aren't on this list are not tested here, but should work (apart from mods that cause issues themselves).
+Note! Read crash logs and error logs to ensure that this mod isn't at fault before reporting a bug or crash blaming this mod.
+
+This mod does not use mixins, so any crashes involving that should be reported to the mod that uses them first, not this one, as this sometimes is a result of user error.
