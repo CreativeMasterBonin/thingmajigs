@@ -17,5 +17,4 @@ Mixins used in this mod cannot be copied verbatim into your own mods. If you can
 
 Follow these simple guidelines, and enjoy the mod.
 
-Previously the license was ARR-UOES, which was limiting but not legally bound to anything. It has been scrapped in favor of this custom license.
 This license was updated January 30th, 2026.
