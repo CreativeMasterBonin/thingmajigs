@@ -94,8 +94,11 @@ Thingamajigs Official Info Page: https://theboninwebsite.wixsite.com/main/bluey-
 Thingamajigs Direct Downloads Page: https://theboninwebsite.wixsite.com/main/thingamajigs-mod-downloads
 
 
+
 Version Licenses:
-All versions not listed below (made before and after August 24, 2024): ARR-UOES (custom license, with explicit public permissions allowed, and other permissions which are not allowed unless explicitly given to a 3rd party).
+All versions from now on (and the source code) are under a custom license, no longer under 'ARR-UOES' (as this license was not really a good set of rules nor friendly to casual users).
+
+All versions not listed below (made before and after August 24, 2024, until Jan 31th, 2026): ARR-UOES (custom license, with explicit public permissions allowed, and other permissions which are not allowed unless explicitly given to a 3rd party).
 
 Version 1.2.5 and below do not fall under this license, they fall under the GPL-3.0 and previously (pre-1.17~ versions) the Academic Free License 3.0.
 
