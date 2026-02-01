@@ -35,7 +35,7 @@ This mod was originally called "Bluey's Thingamajigs", but a part of the name wa
 No I'm not angry or anything, it is just that is LITERALLY what happened, and I can't change that, oh well :)
 Enjoy the long read of info! :D :)
 
-The mod was started in 2020, and has been updating ever since. It has gone through 1 major rewrite and several smaller reconstructions of the mod. Versions 1.19-1.20+ are the rewritten version (sorta-ish, some versioning schemes were different in my mod back in 2020 so I have no clue what version counts as the first rewritten version after the old version was abandonded). Older versions of the mod won't be uploaded here (nor any source code) as they are under a different set of circumstances regarding shared code and textures.
+The mod was started in 2020, and has been updating ever since. It has gone through 1 major rewrite and several smaller reconstructions of the mod. Versions 1.19-1.20+ are the rewritten version (sorta-ish, some versioning schemes were different in my mod back in 2020 so I have no clue what version counts as the first rewritten version after the old version was abandonded). Older versions of the mod are on outside links for reasons related to those versions being under a different set of circumstances regarding shared code and textures.
 
 You can help the mod out by donating funds, or just downloading the mod helps on CurseForge and Modrinth, thanks to ads and such (strange how it works). However these alone don't pay bills. So expect the mod to be delayed here and there for other reasons.
 
