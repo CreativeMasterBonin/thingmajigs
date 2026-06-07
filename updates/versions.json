@@ -9,7 +9,8 @@
     "1.7.7":"Added many new decorations and music component, along with instruments and changes to some old features;overhauled some textures and changed some models",
     "1.8.2":"Fixed vanilla and other paintings being unplacable, moving all Thingamajigs paintings to creative only for now",
     "1.8.3":"Backlog of decorations added, and changed some blockentity item forms to display their in-world models",
-    "1.8.4":"More goodies and decorations added"
+    "1.8.4":"More goodies and decorations added",
+    "1.8.5":"Tons of thingamajigs added, plus texture and model changes"
   },
   "promos":{
     "1.17.1-latest":"1.2.9",
@@ -25,7 +26,7 @@
     "1.20.1-recommended":"1.8.3",
     "1.20.4-latest": "1.7.0",
     "1.21.0-latest":"1.7.6",
-    "1.21.1-latest":"1.7.7",
+    "1.21.1-latest":"1.8.5",
     "1.21.3-latest":"1.7.9",
     "1.21.4-latest":"1.8.1"
   }
