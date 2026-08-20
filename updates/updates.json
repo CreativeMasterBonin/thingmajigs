@@ -8,6 +8,9 @@
   "1.20.4": {
     "1.7.0": "Updated it all to NeoForge. Enjoy!"
   },
+  "1.21.1": {
+    "1.8.9": "2 New features and maintenance on many features applied, recommended update 1"
+  },
   "promos": {
     "1.20.1-latest": "1.7.5",
     "1.20.1-recommended": "1.7.5",
@@ -15,5 +18,7 @@
     "1.20.4-recommended": "1.7.0",
     "1.21.0-latest": "1.7.5",
     "1.21.0-recommended": "1.7.5",
+    "1.21.1-latest": "1.8.9",
+    "1.21.1-recommended": "1.8.9"
   }
 }
