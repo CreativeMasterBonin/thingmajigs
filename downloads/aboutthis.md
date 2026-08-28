@@ -26,7 +26,7 @@ Rewritten Versions:
 - thingamajigs 1.6.2 => 1.20
 
 Soft Releases:
-The are versions which have completed or otherwise almost complete features but not all update features have been polished or added that are planned. Use these for testing purposes if you wish.
+These are versions which have completed or otherwise almost complete features but not all update features have been polished or added that are planned. Use these for testing purposes if you wish.
 
 About Test Versions and Other Misc. Versions:
 These versions of the mod are from internal development. They contain broken features or bugs that don't allow the mod to function properly.
